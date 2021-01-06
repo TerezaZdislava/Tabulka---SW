@@ -1,0 +1,11 @@
+h6 {
+  font-size: 30px !important;
+  color: #381600;
+  font-style: italic;
+  font-family: auto !important;
+}
+svg {
+  color: #381600;
+}
+
+/* zapovězené !important jsem použila proto, že se u určitých elementů nedalo jinak přepsat defaultní CSS. */
